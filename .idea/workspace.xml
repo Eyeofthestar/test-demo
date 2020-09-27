@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b6a2287-97ba-4d86-84b8-877009498557" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\work\maven\warehouse" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\work\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1htxlOE3zXEyGPxSOJYyjYFEzuD" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.ConcurrencyTest">
+    <configuration name="ConcurrencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.Concurrency.ConcurrencyTest" />
+      <module name="test-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.Concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplicationTests.Subscribe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rabbitmq" />
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.TestRabbitmqApplicationTests" />
+      <option name="METHOD_NAME" value="Subscribe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplicationTests.direct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rabbitmq" />
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.TestRabbitmqApplicationTests" />
+      <option name="METHOD_NAME" value="direct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplicationTests.topic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rabbitmq" />
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.TestRabbitmqApplicationTests" />
+      <option name="METHOD_NAME" value="topic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplicationTests.tt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rabbitmq" />
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.TestRabbitmqApplicationTests" />
+      <option name="METHOD_NAME" value="tt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="my-test-space" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="my-test-space" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-thread" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thread.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbitmq.TestRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConcurrencyTest" />
+        <item itemvalue="JUnit.TestRabbitmqApplicationTests.tt" />
+        <item itemvalue="JUnit.TestRabbitmqApplicationTests.topic" />
+        <item itemvalue="JUnit.TestRabbitmqApplicationTests.direct" />
+        <item itemvalue="JUnit.TestRabbitmqApplicationTests.Subscribe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6a2287-97ba-4d86-84b8-877009498557" name="Default Changelist" comment="" />
+      <created>1600844339488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600844339488</updated>
+      <workItem from="1600844342394" duration="6414000" />
+      <workItem from="1600907459552" duration="1202000" />
+      <workItem from="1600920346161" duration="331000" />
+      <workItem from="1601015532177" duration="3285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600920486460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600920486460" />
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1601026212433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601026212433" />
+    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1601026212432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601026212432" />
+    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1601026212432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601026212432" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1601026212432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601026212432" />
+    <state x="384" y="179" key="new project wizard" timestamp="1601015661731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="179" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601015661731" />
+  </component>
+</project>
