@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b6a2287-97ba-4d86-84b8-877009498557" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test-thread/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-test-space.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-exception/src/main/java/com/exception/demo/config/ExecptionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-exception/src/main/java/com/exception/demo/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-variable/src/main/java/com/chen/variable/pojo/IntVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,10 +59,13 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\work\maven\warehouse" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="mavenHome" value="E:\work\maven\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="E:\work\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1htxlOE3zXEyGPxSOJYyjYFEzuD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,15 +74,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ConcurrencyTest">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.exception.demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestVarivbleApplicationTests.contextLoads">
     <configuration name="ConcurrencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.thread.Concurrency.ConcurrencyTest" />
       <module name="test-thread" />
@@ -80,18 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRabbitmqApplicationTests.Subscribe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test-rabbitmq" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rabbitmq.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.rabbitmq" />
-      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.TestRabbitmqApplicationTests" />
-      <option name="METHOD_NAME" value="Subscribe" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,6 +165,22 @@
       <option name="PACKAGE_NAME" value="com.rabbitmq" />
       <option name="MAIN_CLASS_NAME" value="com.rabbitmq.TestRabbitmqApplicationTests" />
       <option name="METHOD_NAME" value="tt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVarivbleApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-variable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen.variable" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.variable.TestVarivbleApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,6 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExceptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-exception" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.exception.demo.ExceptionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="test-rabbitmq" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbitmq.TestRabbitmqApplication" />
@@ -205,16 +254,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestVarivbleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-variable" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.variable.TestVarivbleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestVarivbleApplicationTests.contextLoads" />
         <item itemvalue="Application.ConcurrencyTest" />
         <item itemvalue="JUnit.TestRabbitmqApplicationTests.tt" />
         <item itemvalue="JUnit.TestRabbitmqApplicationTests.topic" />
         <item itemvalue="JUnit.TestRabbitmqApplicationTests.direct" />
-        <item itemvalue="JUnit.TestRabbitmqApplicationTests.Subscribe" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -229,12 +286,23 @@
       <workItem from="1600907459552" duration="1202000" />
       <workItem from="1600920346161" duration="331000" />
       <workItem from="1601015532177" duration="3285000" />
-      <workItem from="1601177109634" duration="2015000" />
+      <workItem from="1601177109634" duration="2711000" />
+      <workItem from="1601431514996" duration="2492000" />
+      <workItem from="1603243902013" duration="1850000" />
+      <workItem from="1604564711282" duration="1247000" />
     </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1601184988123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601184988123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -246,31 +314,72 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="486" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603244481430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="486" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603244481430" />
+    <state x="736" y="386" width="447" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603244105178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="386" width="447" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1603244105178" />
+    <state x="739" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1603244483015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1603244483015" />
+    <state x="537" y="86" key="CommitChangelistDialog2" timestamp="1601184987643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601184987643" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600920486460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600920486460" />
-    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1601177127764">
+    <state width="1875" height="269" key="GridCell.Tab.0.bottom" timestamp="1604564785686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601177127764" />
-    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1601177127764">
+    <state width="1875" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604564785686" />
+    <state width="1875" height="269" key="GridCell.Tab.0.center" timestamp="1604564785686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601177127764" />
-    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1601177127762">
+    <state width="1875" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604564785686" />
+    <state width="1875" height="269" key="GridCell.Tab.0.left" timestamp="1604564785686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601177127762" />
-    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1601177127764">
+    <state width="1875" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604564785686" />
+    <state width="1875" height="269" key="GridCell.Tab.0.right" timestamp="1604564785686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601177127764" />
-    <state x="384" y="179" key="new project wizard" timestamp="1601015661731">
+    <state width="1875" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604564785686" />
+    <state width="1876" height="269" key="GridCell.Tab.1.bottom" timestamp="1603246737648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="384" y="179" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601015661731" />
+    <state width="1876" height="269" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603246737648" />
+    <state width="1876" height="269" key="GridCell.Tab.1.center" timestamp="1603246737648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603246737648" />
+    <state width="1876" height="269" key="GridCell.Tab.1.left" timestamp="1603246737648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603246737648" />
+    <state width="1876" height="269" key="GridCell.Tab.1.right" timestamp="1603246737648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603246737648" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1604565101357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604565101357" />
+    <state x="384" y="179" key="new project wizard" timestamp="1604564928689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="179" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604564928689" />
   </component>
 </project>

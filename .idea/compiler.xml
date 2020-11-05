@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="test-thread" />
+        <module name="demo (2) (com.thread)" />
+        <module name="test-variable" />
+        <module name="test-exception" />
+        <module name="demo (1) (com.exception)" />
         <module name="test-rabbitmq" />
+        <module name="test-thread" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,8 +20,12 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo (1) (com.exception)" options="-parameters" />
+      <module name="demo (2) (com.thread)" options="-parameters" />
+      <module name="test-exception" options="-parameters" />
       <module name="test-rabbitmq" options="-parameters" />
       <module name="test-thread" options="-parameters" />
+      <module name="test-variable" options="-parameters" />
     </option>
   </component>
 </project>
